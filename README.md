@@ -1,6 +1,6 @@
 # DLP-Lab2
 ## EEG Classification
-(The report please refer to DLP_LAB2_0886035.pdf) 
+(The report please refer to DLP_LAB2_Report_0886035.pdf) 
 
 #### Lab Objective
 * In this lab, you will need to implement simple EEG classification models which are EEGNet, DeepConvNet[1] with BCI competition dataset. 
